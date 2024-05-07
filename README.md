@@ -1,2 +1,2 @@
 # DIO-
-This AVR program configures GPIO pins on a microcontroller to interact with buttons, LEDs, and a 7-segment display configures GPIO ports for LED and 7-segment display outputs, and continuously monitors button presses. 
+This AVR program configures GPIO pins on a microcontroller to interact with buttons, LEDs, and a 7-segment display. It activates internal pull-up resistors for button inputs, configures GPIO ports for LED and 7-segment display outputs, and continuously monitors button presses. When the first button is pressed, it triggers a rotating LED pattern, and when the second button is pressed, it increments the number displayed on the 7-segment display. Overall, the program showcases basic input/output operations for user interaction.
